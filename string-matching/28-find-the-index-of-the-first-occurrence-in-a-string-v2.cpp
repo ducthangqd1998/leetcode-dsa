@@ -15,6 +15,7 @@ public:
         for (int i = 0; i < n - m; i++) {
             if (needle == haystack.substr(i, m)) return i;
         }
+        
         if (needle == haystack.substr(n - m, m)) return n - m;
         return -1;
     }
