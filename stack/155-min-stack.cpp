@@ -12,7 +12,6 @@ public:
         this->num = n;
         this->node = NULL;
     }
-
 };
 
 class MinStack {
@@ -21,7 +20,6 @@ public:
     MinStack() {
         root = NULL;
     }
-    
     
     void push(int val) {
         Node* temp = new Node(val);
@@ -49,7 +47,6 @@ public:
         return min;
     }
 };
-
 
 int main() {
     MinStack minStack;
