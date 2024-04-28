@@ -34,12 +34,6 @@ public:
 int main()
 {
     Solution solution;
-    // vector<int> n = {14,11,6,9,3,15};
-    // solution.countDistinct(n, 4, 7);
-    // vector<int> n = {13,4,14,13,15,4,8,13,4,12};
-    // solution.countDistinct(n, 5, 14);
-    // vector<int> n = {10,2,17,7,20};
-    // solution.countDistinct(n, 1, 10);
     vector<int> n = {2, 3, 3, 2, 2};
     solution.countDistinct(n, 2, 2);
     return 1;
