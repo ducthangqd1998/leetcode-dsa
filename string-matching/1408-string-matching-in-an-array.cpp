@@ -4,23 +4,29 @@
 
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    vector<string> stringMatching(vector<string>& words) {
+    vector<string> stringMatching(vector<string> &words)
+    {
         vector<string> c;
-        for (auto s1 : words) {
-            for (auto s2 : words) {
-                if (s1 != s2 && s2.find(s1, 0)!=string::npos) {
+        for (auto s1 : words)
+        {
+            for (auto s2 : words)
+            {
+                if (s1 != s2 && s2.find(s1, 0) != string::npos)
+                {
                     c.push_back(s1);
                     break;
-                } 
+                }
             }
         }
         return c;
     }
 };
 
-int maii() {
+int maii()
+{
     Solution solution;
     vector<string> words = {"mass", "as", "hero", "superhero"};
     solution.stringMatching(words);
