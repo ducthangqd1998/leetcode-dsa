@@ -25,7 +25,7 @@ public:
     }
 };
 
-int maii()
+int main()
 {
     Solution solution;
     vector<string> words = {"mass", "as", "hero", "superhero"};
