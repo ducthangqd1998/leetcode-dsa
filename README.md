@@ -17,7 +17,7 @@
 |String Matching| Homework | ✅ | Hard | https://leetcode.com/problems/stream-of-characters |
 |Tree| Live Coding | ✅ | Easy | https://leetcode.com/problems/binary-tree-postorder-traversal |
 |Tree| Live Coding | ✅ | Medium | https://leetcode.com/problems/binary-tree-level-order-traversal |
-|Tree| Live Coding |  | Medium | https://leetcode.com/problems/binary-tree-right-side-view |
+|Tree| Live Coding | ✅ | Medium | https://leetcode.com/problems/binary-tree-right-side-view |
 |Tree| Live Coding |  | Easy | https://leetcode.com/problems/symmetric-tree |
 |Tree| Live Coding |  | Medium | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree |
 |Tree| Live Coding |  | Easy | https://leetcode.com/problems/path-sum |
