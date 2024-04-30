@@ -24,7 +24,7 @@
 |Tree| Live Coding |  | Medium | lintcode.com/problem/650 |
 |Tree| Live Coding | ✅ | Easy | https://leetcode.com/problems/range-sum-of-bst/ |
 |Tree| Live Coding | ✅ | Medium | https://leetcode.com/problems/validate-binary-search-tree |
-|Tree| Live Coding |  | Medium | https://leetcode.com/problems/binary-search-tree-iterator |
+|Tree| Live Coding | ✅ | Medium | https://leetcode.com/problems/binary-search-tree-iterator |
 |Tree| Live Coding |  | Medium | https://leetcode.com/problems/binary-tree-inorder-traversal |
 |Tree| Live Coding |  | Medium | https://leetcode.com/problems/two-sum-iv-input-is-a-bst |
 |Tree| Homework |  | Easy | https://leetcode.com/problems/diameter-of-binary-tree |
