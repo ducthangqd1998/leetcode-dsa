@@ -29,7 +29,7 @@
 |Tree| Live Coding | ✅ | Medium | https://leetcode.com/problems/two-sum-iv-input-is-a-bst |
 |Tree| Homework | ✅ | Easy | https://leetcode.com/problems/diameter-of-binary-tree |
 |Tree| Homework | ✅ | Medium | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal |
-|Tree| Homework |  | Medium | https://leetcode.com/problems/time-needed-to-inform-all-employees |
+|Tree| Homework | ✅ | Medium | https://leetcode.com/problems/time-needed-to-inform-all-employees |
 |Tree| Homework |  | Medium | https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree |
 |Tree| Homework |  | Medium | https://leetcode.com/problems/kth-smallest-element-in-a-bst |
 |Tree| Homework |  | Medium | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal |
