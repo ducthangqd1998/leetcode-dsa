@@ -40,7 +40,7 @@
 |String| Live Coding | ✅ | Easy | https://leetcode.com/problems/longest-common-prefix |
 |String| Live Coding | ✅ | Easy | https://leetcode.com/problems/check-if-string-is-a-prefix-of-array |
 |String| Live Coding | ✅ | Medium | https://leetcode.com/problems/longest-palindromic-substring |
-|String| Homework |  | Medium | https://leetcode.com/problems/palindromic-substrings |
+|String| Homework | ✅ | Medium | https://leetcode.com/problems/palindromic-substrings |
 |String| Homework |  | Medium | https://leetcode.com/problems/valid-palindrome/ |
 
 ### Course
