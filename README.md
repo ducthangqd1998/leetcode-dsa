@@ -36,6 +36,21 @@
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/all-paths-from-source-to-target |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/shortest-path-in-binary-matrix |
 |Graph| Live Coding |  | Medium | https://leetcode.com/problems/is-graph-bipartite |
+|Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/all-paths-from-source-to-target |
+|Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/shortest-path-in-binary-matrix |
+|Graph| Live Coding |  | Medium | https://leetcode.com/problems/min-cost-to-connect-all-points |
+|Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance|
+|Graph| Live Coding |  | Medium | https://leetcode.com/problems/network-delay-time |
+|Graph| Live Coding |  | Medium | https://leetcode.com/problems/similar-string-groups |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule-iv|
+|Graph| Homework |  | Medium | https://leetcode.com/problems/redundant-connection |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule-ii |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule|
+|Graph| Homework |  | Medium | https://leetcode.com/problems/accounts-merge |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule-iv|
+|Graph| Homework |  | Medium | https://leetcode.com/problems/path-with-maximum-probability |
+|Graph| Homework |  | Medium | https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node |
 |String| Live Coding | ✅ | Easy | https://leetcode.com/problems/palindrome-number |
 |String| Live Coding | ✅ | Easy | https://leetcode.com/problems/longest-common-prefix |
 |String| Live Coding | ✅ | Easy | https://leetcode.com/problems/check-if-string-is-a-prefix-of-array |
