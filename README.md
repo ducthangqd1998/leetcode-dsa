@@ -41,7 +41,7 @@
 |Graph| Live Coding |  | Medium | https://leetcode.com/problems/min-cost-to-connect-all-points |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance|
 |Graph| Live Coding |  | Medium | https://leetcode.com/problems/network-delay-time |
-|Graph| Live Coding |  | Medium | https://leetcode.com/problems/similar-string-groups |
+|Graph| Live Coding | ✅ | Hard | https://leetcode.com/problems/similar-string-groups |
 |Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule-iv|
 |Graph| Homework |  | Medium | https://leetcode.com/problems/redundant-connection |
 |Graph| Homework |  | Medium | https://leetcode.com/problems/course-schedule-ii |
