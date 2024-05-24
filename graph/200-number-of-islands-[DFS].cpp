@@ -8,8 +8,6 @@ using namespace std;
 
 class Solution {
 public:
-    vector<vector<int>> directions = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
-
     void dfs(vector<vector<char>>& grid, int i, int j, int m, int n) {
         if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] != '1')
             return;
