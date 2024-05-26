@@ -35,7 +35,7 @@
 |Tree| Homework |  | Medium | https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/all-paths-from-source-to-target |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/shortest-path-in-binary-matrix |
-|Graph| Live Coding |  | Medium | https://leetcode.com/problems/is-graph-bipartite |
+|Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/is-graph-bipartite |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/all-paths-from-source-to-target |
 |Graph| Live Coding | ✅ | Medium | https://leetcode.com/problems/shortest-path-in-binary-matrix |
 |Graph| Live Coding |  | Medium | https://leetcode.com/problems/min-cost-to-connect-all-points |
