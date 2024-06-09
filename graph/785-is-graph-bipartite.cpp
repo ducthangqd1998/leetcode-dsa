@@ -32,7 +32,7 @@ public:
         for (int i = 0; i < n; ++i) {
             int color = 0;
             if (colors[i] != -1)
-                color = colors[i];;
+                color = colors[i];
             
             dfs(graph, colors, vistied, i, color);
         }
