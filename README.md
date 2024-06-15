@@ -58,6 +58,14 @@
 |String| Live Coding | ✅ | Medium | https://leetcode.com/problems/longest-palindromic-substring |
 |String| Homework | ✅ | Medium | https://leetcode.com/problems/palindromic-substrings |
 |String| Homework | ✅ | Easy | https://leetcode.com/problems/valid-palindrome/ |
+|Heap| Live Coding | ✅ | Medium | https://leetcode.com/problems/kth-largest-element-in-an-array/  |
+|Heap| Live Coding | ✅ | Medium | https://leetcode.com/problems/furthest-building-you-can-reach/ |
+|Heap| Live Coding |  | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
+|Heap| Homework | ✅ | Easy | https://leetcode.com/problems/top-k-frequent-elements |
+|Heap| Homework |  | Easy | https://leetcode.com/problems/k-closest-points-to-origin/ |
+|Heap| Homework |  | Easy | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ |
+|Heap| Homework |  | Easy | https://leetcode.com/problems/find-median-from-data-stream/ |
+|Heap| Homework |  | Easy | https://leetcode.com/problems/meeting-rooms-ii/ |
 
 ### Course
 * https://www.educative.io/courses/grokking-coding-interview-patterns-cpp
