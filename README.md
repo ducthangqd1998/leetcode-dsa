@@ -60,7 +60,7 @@
 |String| Homework | ✅ | Easy | https://leetcode.com/problems/valid-palindrome/ |
 |Heap| Live Coding | ✅ | Medium | https://leetcode.com/problems/kth-largest-element-in-an-array/  |
 |Heap| Live Coding | ✅ | Medium | https://leetcode.com/problems/furthest-building-you-can-reach/ |
-|Heap| Live Coding |  | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
+|Heap| Live Coding | ✅ | Hard | https://leetcode.com/problems/merge-k-sorted-lists/ |
 |Heap| Homework | ✅ | Medium | https://leetcode.com/problems/top-k-frequent-elements |
 |Heap| Homework | ✅ | Medium | https://leetcode.com/problems/k-closest-points-to-origin/ |
 |Heap| Homework | ✅ | Medium | https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/ |
